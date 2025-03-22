@@ -1,0 +1,38 @@
+﻿  ExplanationEngine.cpp
+H:\Tài liệu học tập\2025\Trí tuệ nhân tạo\PROJECT\He-chuyen-gia\ExplanationEngine.cpp(8,10): warning C4566: character represented by universal-character-name '\u1EA3' cannot be represented in the current code page (1252)
+H:\Tài liệu học tập\2025\Trí tuệ nhân tạo\PROJECT\He-chuyen-gia\ExplanationEngine.cpp(8,10): warning C4566: character represented by universal-character-name '\u1EC7' cannot be represented in the current code page (1252)
+H:\Tài liệu học tập\2025\Trí tuệ nhân tạo\PROJECT\He-chuyen-gia\ExplanationEngine.cpp(8,10): warning C4566: character represented by universal-character-name '\u1ED1' cannot be represented in the current code page (1252)
+H:\Tài liệu học tập\2025\Trí tuệ nhân tạo\PROJECT\He-chuyen-gia\ExplanationEngine.cpp(8,10): warning C4566: character represented by universal-character-name '\u1EC3' cannot be represented in the current code page (1252)
+H:\Tài liệu học tập\2025\Trí tuệ nhân tạo\PROJECT\He-chuyen-gia\ExplanationEngine.cpp(8,10): warning C4566: character represented by universal-character-name '\u1EF1' cannot be represented in the current code page (1252)
+H:\Tài liệu học tập\2025\Trí tuệ nhân tạo\PROJECT\He-chuyen-gia\ExplanationEngine.cpp(8,10): warning C4566: character represented by universal-character-name '\u1ED3' cannot be represented in the current code page (1252)
+H:\Tài liệu học tập\2025\Trí tuệ nhân tạo\PROJECT\He-chuyen-gia\ExplanationEngine.cpp(8,10): warning C4566: character represented by universal-character-name '\u1EA1' cannot be represented in the current code page (1252)
+H:\Tài liệu học tập\2025\Trí tuệ nhân tạo\PROJECT\He-chuyen-gia\ExplanationEngine.cpp(8,10): warning C4566: character represented by universal-character-name '\u1EE7' cannot be represented in the current code page (1252)
+H:\Tài liệu học tập\2025\Trí tuệ nhân tạo\PROJECT\He-chuyen-gia\ExplanationEngine.cpp(8,10): warning C4566: character represented by universal-character-name '\u1EB5' cannot be represented in the current code page (1252)
+H:\Tài liệu học tập\2025\Trí tuệ nhân tạo\PROJECT\He-chuyen-gia\ExplanationEngine.cpp(9,10): warning C4566: character represented by universal-character-name '\u1EBF' cannot be represented in the current code page (1252)
+H:\Tài liệu học tập\2025\Trí tuệ nhân tạo\PROJECT\He-chuyen-gia\ExplanationEngine.cpp(9,10): warning C4566: character represented by universal-character-name '\u1EA3' cannot be represented in the current code page (1252)
+H:\Tài liệu học tập\2025\Trí tuệ nhân tạo\PROJECT\He-chuyen-gia\ExplanationEngine.cpp(9,10): warning C4566: character represented by universal-character-name '\u1ED3' cannot be represented in the current code page (1252)
+H:\Tài liệu học tập\2025\Trí tuệ nhân tạo\PROJECT\He-chuyen-gia\ExplanationEngine.cpp(9,10): warning C4566: character represented by universal-character-name '\u1EA1' cannot be represented in the current code page (1252)
+H:\Tài liệu học tập\2025\Trí tuệ nhân tạo\PROJECT\He-chuyen-gia\ExplanationEngine.cpp(9,10): warning C4566: character represented by universal-character-name '\u1EC7' cannot be represented in the current code page (1252)
+H:\Tài liệu học tập\2025\Trí tuệ nhân tạo\PROJECT\He-chuyen-gia\ExplanationEngine.cpp(9,10): warning C4566: character represented by universal-character-name '\u1EBD' cannot be represented in the current code page (1252)
+H:\Tài liệu học tập\2025\Trí tuệ nhân tạo\PROJECT\He-chuyen-gia\ExplanationEngine.cpp(9,10): warning C4566: character represented by universal-character-name '\u1EAD' cannot be represented in the current code page (1252)
+H:\Tài liệu học tập\2025\Trí tuệ nhân tạo\PROJECT\He-chuyen-gia\ExplanationEngine.cpp(9,10): warning C4566: character represented by universal-character-name '\u1EB1' cannot be represented in the current code page (1252)
+H:\Tài liệu học tập\2025\Trí tuệ nhân tạo\PROJECT\He-chuyen-gia\ExplanationEngine.cpp(9,10): warning C4566: character represented by universal-character-name '\u1EB5' cannot be represented in the current code page (1252)
+H:\Tài liệu học tập\2025\Trí tuệ nhân tạo\PROJECT\He-chuyen-gia\ExplanationEngine.cpp(9,10): warning C4566: character represented by universal-character-name '\u0111' cannot be represented in the current code page (1252)
+H:\Tài liệu học tập\2025\Trí tuệ nhân tạo\PROJECT\He-chuyen-gia\ExplanationEngine.cpp(9,10): warning C4566: character represented by universal-character-name '\u1EC3' cannot be represented in the current code page (1252)
+  main.cpp
+H:\Tài liệu học tập\2025\Trí tuệ nhân tạo\PROJECT\He-chuyen-gia\main.cpp(10,10): warning C4566: character represented by universal-character-name '\u1EDF' cannot be represented in the current code page (1252)
+H:\Tài liệu học tập\2025\Trí tuệ nhân tạo\PROJECT\He-chuyen-gia\main.cpp(10,10): warning C4566: character represented by universal-character-name '\u1EA1' cannot be represented in the current code page (1252)
+H:\Tài liệu học tập\2025\Trí tuệ nhân tạo\PROJECT\He-chuyen-gia\main.cpp(10,10): warning C4566: character represented by universal-character-name '\u1EC7' cannot be represented in the current code page (1252)
+  InferenceEngine.cpp
+H:\Tài liệu học tập\2025\Trí tuệ nhân tạo\PROJECT\He-chuyen-gia\InferenceEngine.cpp(12,11): warning C4566: character represented by universal-character-name '\u1EB5' cannot be represented in the current code page (1252)
+H:\Tài liệu học tập\2025\Trí tuệ nhân tạo\PROJECT\He-chuyen-gia\InferenceEngine.cpp(12,11): warning C4566: character represented by universal-character-name '\u0111' cannot be represented in the current code page (1252)
+H:\Tài liệu học tập\2025\Trí tuệ nhân tạo\PROJECT\He-chuyen-gia\InferenceEngine.cpp(12,11): warning C4566: character represented by universal-character-name '\u1EC3' cannot be represented in the current code page (1252)
+H:\Tài liệu học tập\2025\Trí tuệ nhân tạo\PROJECT\He-chuyen-gia\InferenceEngine.cpp(12,11): warning C4566: character represented by universal-character-name '\u1EED' cannot be represented in the current code page (1252)
+H:\Tài liệu học tập\2025\Trí tuệ nhân tạo\PROJECT\He-chuyen-gia\InferenceEngine.cpp(12,11): warning C4566: character represented by universal-character-name '\u1EA1' cannot be represented in the current code page (1252)
+H:\Tài liệu học tập\2025\Trí tuệ nhân tạo\PROJECT\He-chuyen-gia\InferenceEngine.cpp(16,11): warning C4566: character represented by universal-character-name '\u1EAB' cannot be represented in the current code page (1252)
+H:\Tài liệu học tập\2025\Trí tuệ nhân tạo\PROJECT\He-chuyen-gia\InferenceEngine.cpp(16,11): warning C4566: character represented by universal-character-name '\u0111' cannot be represented in the current code page (1252)
+H:\Tài liệu học tập\2025\Trí tuệ nhân tạo\PROJECT\He-chuyen-gia\InferenceEngine.cpp(16,11): warning C4566: character represented by universal-character-name '\u1EC3' cannot be represented in the current code page (1252)
+H:\Tài liệu học tập\2025\Trí tuệ nhân tạo\PROJECT\He-chuyen-gia\InferenceEngine.cpp(16,11): warning C4566: character represented by universal-character-name '\u1EA1' cannot be represented in the current code page (1252)
+  KnowledgeBase.cpp
+  Generating Code...
+  Hệ chuyên gia.vcxproj -> H:\Tài liệu học tập\2025\Trí tuệ nhân tạo\PROJECT\He-chuyen-gia\x64\Debug\Hệ chuyên gia.exe
