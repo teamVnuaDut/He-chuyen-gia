@@ -22,8 +22,19 @@ public:
 
 	//tao cho rule
 	void addRule(const Rule& rule);
-	const vector<Rule>& getRules();
+	const vector<Rule>& getRules() const;
 	void displayRules() const;
+
+	//ham lay cac fact cho nguoi dung
+	const vector<string>& getFacts() const;
+
+	//ham xu l file
+	bool loadFromFile(const string& filename);
+	bool saveToFile(const string& filename) const;
+
+	//ham update fact va rule
+	bool updateFact(const string& oldFact, const string& newFact);
+	bool updateRule(const string& ruleIdentifier, const Rule& newRule);
 
 private:
 	vector<string> facts;
