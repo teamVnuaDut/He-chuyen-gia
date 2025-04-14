@@ -184,3 +184,8 @@ bool KnowledgeBase::updateRule(const string& ruleIdentifier, const Rule& newRule
     }
     return false;
 }
+
+/*  vẫn lỗi trong việc thêm fact và rule vào trong file txt
+*   file txt chưa xuất hiện khi thêm fact và rule
+*   chưa truy xuất được
+*/

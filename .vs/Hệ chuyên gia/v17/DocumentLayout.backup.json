@@ -11,6 +11,10 @@
       "RelativeMoniker": "D:0:0:{E2E0CD20-ECFD-41B5-83C1-0B18B3BFE04A}|H\u1EC7 chuy\u00EAn gia.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{E2E0CD20-ECFD-41B5-83C1-0B18B3BFE04A}|H\u1EC7 chuy\u00EAn gia.vcxproj|H:\\T\u00E0i li\u1EC7u h\u1ECDc t\u1EADp\\2025\\Tr\u00ED tu\u1EC7 nh\u00E2n t\u1EA1o\\PROJECT\\He-chuyen-gia\\ExplanationEngine.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E2E0CD20-ECFD-41B5-83C1-0B18B3BFE04A}|H\u1EC7 chuy\u00EAn gia.vcxproj|solutionrelative:ExplanationEngine.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E2E0CD20-ECFD-41B5-83C1-0B18B3BFE04A}|H\u1EC7 chuy\u00EAn gia.vcxproj|H:\\T\u00E0i li\u1EC7u h\u1ECDc t\u1EADp\\2025\\Tr\u00ED tu\u1EC7 nh\u00E2n t\u1EA1o\\PROJECT\\He-chuyen-gia\\KnowledgeBase.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{E2E0CD20-ECFD-41B5-83C1-0B18B3BFE04A}|H\u1EC7 chuy\u00EAn gia.vcxproj|solutionrelative:KnowledgeBase.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -22,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,27 +38,42 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ExplanationEngine.cpp",
+              "DocumentMoniker": "H:\\T\u00E0i li\u1EC7u h\u1ECDc t\u1EADp\\2025\\Tr\u00ED tu\u1EC7 nh\u00E2n t\u1EA1o\\PROJECT\\He-chuyen-gia\\ExplanationEngine.cpp",
+              "RelativeDocumentMoniker": "ExplanationEngine.cpp",
+              "ToolTip": "H:\\T\u00E0i li\u1EC7u h\u1ECDc t\u1EADp\\2025\\Tr\u00ED tu\u1EC7 nh\u00E2n t\u1EA1o\\PROJECT\\He-chuyen-gia\\ExplanationEngine.cpp",
+              "RelativeToolTip": "ExplanationEngine.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-14T06:17:59.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
               "Title": "main.cpp",
               "DocumentMoniker": "H:\\T\u00E0i li\u1EC7u h\u1ECDc t\u1EADp\\2025\\Tr\u00ED tu\u1EC7 nh\u00E2n t\u1EA1o\\PROJECT\\He-chuyen-gia\\main.cpp",
               "RelativeDocumentMoniker": "main.cpp",
               "ToolTip": "H:\\T\u00E0i li\u1EC7u h\u1ECDc t\u1EADp\\2025\\Tr\u00ED tu\u1EC7 nh\u00E2n t\u1EA1o\\PROJECT\\He-chuyen-gia\\main.cpp",
               "RelativeToolTip": "main.cpp",
-              "ViewState": "AgIAAGkAAAAAAAAAAAAIwJMAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAFoAAAAAAAAAAAArwF4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-23T04:43:29.079Z"
+              "WhenOpened": "2025-03-23T04:43:29.079Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "KnowledgeBase.h",
               "DocumentMoniker": "H:\\T\u00E0i li\u1EC7u h\u1ECDc t\u1EADp\\2025\\Tr\u00ED tu\u1EC7 nh\u00E2n t\u1EA1o\\PROJECT\\He-chuyen-gia\\KnowledgeBase.h",
               "RelativeDocumentMoniker": "KnowledgeBase.h",
               "ToolTip": "H:\\T\u00E0i li\u1EC7u h\u1ECDc t\u1EADp\\2025\\Tr\u00ED tu\u1EC7 nh\u00E2n t\u1EA1o\\PROJECT\\He-chuyen-gia\\KnowledgeBase.h",
               "RelativeToolTip": "KnowledgeBase.h",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAACMAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-03-23T04:32:14.798Z"
+              "WhenOpened": "2025-03-23T04:32:14.798Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -64,7 +83,7 @@
               "RelativeDocumentMoniker": "KnowledgeBase.cpp",
               "ToolTip": "H:\\T\u00E0i li\u1EC7u h\u1ECDc t\u1EADp\\2025\\Tr\u00ED tu\u1EC7 nh\u00E2n t\u1EA1o\\PROJECT\\He-chuyen-gia\\KnowledgeBase.cpp",
               "RelativeToolTip": "KnowledgeBase.cpp",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAALUAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-03-23T04:30:17.023Z",
               "EditorCaption": ""
