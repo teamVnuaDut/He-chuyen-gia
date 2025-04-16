@@ -3,6 +3,7 @@
 #include <fstream>
 #include <sstream>
 #include <algorithm>
+#include <filesystem>
 
 using namespace std;
 
@@ -154,6 +155,8 @@ bool KnowledgeBase::saveToFile(const std::string& filename) const {
         ofs << " THEN " << rule.conclusion << std::endl;
     }
 
+	cout << "Da luu du lieu vao file: " << filename << endl;
+
     ofs.close();
     return true;
 }
@@ -185,7 +188,4 @@ bool KnowledgeBase::updateRule(const string& ruleIdentifier, const Rule& newRule
     return false;
 }
 
-/*  vẫn lỗi trong việc thêm fact và rule vào trong file txt
-*   file txt chưa xuất hiện khi thêm fact và rule
-*   chưa truy xuất được
-*/
+//da fix

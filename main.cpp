@@ -64,6 +64,8 @@ int main()
 		}
 	} while (mainChoice!=3);
 
+	kb.saveToFile("knowledge_base.txt");
+
 	return 0;
 }
 
@@ -97,6 +99,10 @@ void adminMode(KnowledgeBase& kb)
 				break;
 				}
 			case 2: {
+
+				//chua hoan thien them rule va update rule
+
+
 				int numPremises;
 				cout << "Nhap so luong dieu kien(premises): ";
 				cin >> numPremises;

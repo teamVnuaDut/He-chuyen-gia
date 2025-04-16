@@ -128,15 +128,19 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="ExplanationEngine.cpp" />
+    <ClCompile Include="LogicEvaluator.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="InferenceEngine.cpp" />
     <ClCompile Include="KnowledgeBase.cpp" />
+    <ClCompile Include="StringUtils.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="ExplanationEngine.h" />
     <ClInclude Include="InferenceEngine.h" />
     <ClInclude Include="KnowledgeBase.h" />
+    <ClInclude Include="LogicEvaluator.h" />
     <ClInclude Include="Rule.h" />
+    <ClInclude Include="StringUtils.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
